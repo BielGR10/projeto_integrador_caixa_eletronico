@@ -1,4 +1,4 @@
-#PROJETO INTEGRADOR - CAIXA ELETRONICO
+# PROJETO INTEGRADOR - CAIXA ELETRONICO
 
 Simulador de caixa eletronico para gestão de finanças.
 Utilizando estrutura de repetição e estrutura de condição.
